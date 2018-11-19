@@ -1,0 +1,31 @@
+{
+  "name": "log4js-tcp-appender",
+  "version": "1.0.0",
+  "description": "TCP appender for log4js-node logger with layouts and errors handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "$(npm bin)/mocha --exit --timeout 3s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achesco/log4js-tcp.git"
+  },
+  "keywords": [
+    "log4js",
+    "tcp",
+    "appender",
+    "layout",
+    "log",
+    "log4js-node",
+    "json"
+  ],
+  "author": "Anton Lysenko <achesco@gmail.com> (https://antonlysenko.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/achesco/log4js-tcp/issues"
+  },
+  "homepage": "https://github.com/achesco/log4js-tcp#readme",
+  "devDependencies": {
+    "mocha": "5.2.0"
+  }
+}
