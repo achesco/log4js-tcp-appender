@@ -1,6 +1,6 @@
 {
   "name": "log4js-tcp-appender",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "TCP appender for log4js-node logger with layouts and errors handling",
   "main": "index.js",
   "scripts": {
